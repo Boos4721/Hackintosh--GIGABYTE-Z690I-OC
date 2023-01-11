@@ -24,4 +24,5 @@ Why Enabling VT-D here? <br>
 Because I255-V In Need E1000.
 ![D](./images/iShot_2023-01-10_23.12.13.jpg)
 ## For Thanks
-**[glekner](https://github.com/glekner/GIGABYTE-Z690I-Hackintosh)**
+**[glekner](https://github.com/glekner/GIGABYTE-Z690I-Hackintosh)** <br>
+**[corpnewt](https://github.com/corpnewt/SSDTTime)**
