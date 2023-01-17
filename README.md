@@ -9,7 +9,8 @@
 - **GPU**: Sapphire AMD Radeon RX 6600XT 8 GB NITRO+ <br>
 - **WIFI Card**: On Board Killer AX1650i <br>
 ![C](./images/iShot_2023-01-10_23.15.45.jpg)
-
+## OverClock
+![OC](./images/iShot_2023-01-17_23.29.50.jpg)
 ## Bios Setting
 - **Bios Version**: F22 `PICE4.0 with PCI-E 4.0 Riser Should Use F2` <br>
 - CFG-Lock - OFF
@@ -18,11 +19,12 @@
 - VT-x - ON
 - Above 4G decoding - ON
 - Re-Size BAR Support - ON
+- ERP - ON
 
 ## About Setting
-Why Enabling VT-D here? <br>
+Why Enabling VT-d here? <br>
 Because I255-V In Need E1000.
-![D](./images/iShot_2023-01-10_23.12.13.jpg)
+![D](./images/iShot_2023-01-17_23.37.00.jpg)
 ## For Thanks
 **[glekner](https://github.com/glekner/GIGABYTE-Z690I-Hackintosh)** <br>
 **[corpnewt](https://github.com/corpnewt/SSDTTime)**
